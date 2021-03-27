@@ -189,6 +189,9 @@ h3 .sec{
     top:80%;
     margin-top: -60px;
   }
+  h3 .sec{
+    font-family: monospace;
+  }
 
   .p p{
     font-size: 22px;
