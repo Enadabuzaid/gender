@@ -191,8 +191,9 @@ h3 .sec{
   }
 
   .p p{
-    font-size: 17px;
+    font-size: 22px;
     margin-top: 4px;
+    font-family: monospace;
 
   }
 
@@ -225,6 +226,7 @@ h3 .sec{
 
   .para p{
     margin-top: 5px;
+    font-family: monospace;
 
   }
 
